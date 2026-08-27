@@ -65,7 +65,7 @@ Bluetooth Terminal App
       ↓
 Text / Speech Output
 
-## **Gesture Recognition**
+## Gesture Recognition
 
 The system uses five flex sensors connected to the analog pins of the Arduino UNO.
 
