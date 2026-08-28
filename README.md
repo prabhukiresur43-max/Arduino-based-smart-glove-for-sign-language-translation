@@ -86,18 +86,18 @@ When a finger bends, the resistance of the flex sensor changes. This produces a 
 
 The five flex sensors are connected to:
 
-A0 → Flex Sensor 1
-A1 → Flex Sensor 2
-A2 → Flex Sensor 3
-A3 → Flex Sensor 4
-A4 → Flex Sensor 5
-Bluetooth Communication
+- A0 → Flex Sensor 1
+- A1 → Flex Sensor 2
+- A2 → Flex Sensor 3
+- A3 → Flex Sensor 4
+- A4 → Flex Sensor 5
+
+## Bluetooth Communication
 
 The HC-05 Bluetooth module is used to send the recognized messages from the Arduino UNO to an Android smartphone.
 
 The Arduino program uses SoftwareSerial for communication with the HC-05.
 
-## Bluetooth Communication
 Arduino UNO → HC-05 → Android Smartphone
 
 The Android phone receives the message using a Bluetooth Terminal application.
