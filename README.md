@@ -34,7 +34,6 @@ After recognizing the gesture, the corresponding message is sent wirelessly usin
 - Bluetooth Terminal App
 
 ## How It Works
-
 1. The user performs a particular hand gesture using the glove.
 2. The flex sensors detect the bending of the fingers.
 3. The change in sensor values is read by the Arduino UNO.
@@ -44,8 +43,7 @@ After recognizing the gesture, the corresponding message is sent wirelessly usin
 7. The Android smartphone receives the message through a Bluetooth Terminal application.
 8. The received message can be displayed as text or converted into speech.
 
-## System Flow
-
+## System Flow 
 ```text
 Hand Gesture
       ↓
@@ -64,6 +62,7 @@ Android Smartphone
 Bluetooth Terminal App
       ↓
 Text / Speech Output
+```
 
 ## Gesture Recognition
 
@@ -155,7 +154,8 @@ Expand the system to recognize complete words and sentences.
 
 
 ### Circuit:
-<img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/42cfaa82-8151-42d8-9d20-9ee900a2d4b0" />
+<img width="835" height="460" alt="image" src="https://github.com/user-attachments/assets/8ce80ee8-efa6-4dbd-b178-cc05a1a44c13" />
+
 
 
 ### Project Demo:
