@@ -176,3 +176,9 @@ Output Device: Android Smartphone
 Programming: Embedded C/C++
 
 Domain: Embedded Systems / Wearable Technology / Assistive Technology
+
+## Project Documentation
+
+The complete project report is available here:
+
+[View Project Report](project-report.pdf)
